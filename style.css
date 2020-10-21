@@ -1,0 +1,42 @@
+*{
+}
+
+.margin{
+    width: 50%;
+    height: 40vh;
+    border: 3px dotted #cdcdcd;
+    background-color:#f1f1f1;
+    margin-left: 25%;
+    margin-top: 12.5%;
+}
+
+.border{
+    border: 2px solid #54B258;
+    background-color: #4CAF50;
+    width: 90%;
+    height: 30vh;
+    margin-left: 5%;
+}
+
+.padding{
+    width: 90%;
+    height: 20vh;
+    margin-left: 5%;
+    background-color:#f1f1f1;
+    border: 2px solid #cdcdcd;
+}
+
+.content{
+    width: 90%;
+    height: 10vh;
+    margin-left: 5%;
+    border: 3px dotted #cdcdcd;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+
+p{text-align: center;  
+vertical-align: middle;
+ }
